@@ -21,5 +21,5 @@ const Trisdeil = {
   challenge: "i am making my first bot and moving my projects to typescript"
 }
 ```
-  <img src="https://media.giphy.com/media/s69IuUIxYf4zkHpu4I/giphy.gif" width="100"> <em><b>Nice to meet you and code with you!</b></em>
+  <img src="https://media.giphy.com/media/s69IuUIxYf4zkHpu4I/giphy.gif" width="60"> <em><b>Nice to meet you and code with you!</b></em>
 ---
