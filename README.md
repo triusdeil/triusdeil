@@ -9,7 +9,7 @@ const Trisdeil = {
    technologies: {
         frontEnd: {
             js: ["React","Redux","React Native"],
-            css: ["Material-ui", "bootstrap", ]
+            css: ["Material-ui", "bootstrap" ]
         },
         backEnd: {
             js: ["node", "express"],
