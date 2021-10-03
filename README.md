@@ -13,7 +13,8 @@ const Trisdeil = {
         },
         backEnd: {
             js: ["node", "express"],
-            c#:[".netcore"]
+            c#:[".netcore"],
+            ruby<img src=""/>
         },
         databases: ["MySql", "MongoDB"],
     },
