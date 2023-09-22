@@ -14,7 +14,7 @@ const Trisdeil = {
         backEnd: {
             js: ["node", "express"],
             c#:[".netcore"],
-            ruby
+            python:["fastapi"]
         },
         databases: ["MySql", "MongoDB"],
     },
